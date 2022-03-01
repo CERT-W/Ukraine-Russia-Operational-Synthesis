@@ -1,11 +1,11 @@
 ﻿Type,Value,Malware Reference,Source
-Command,cmd.exe /Q /c start c:\stage1.exe 1> \\127.0.0.1\ADMIN$\__[TIMESTAMP] 2>&1,WhisperGate,PaloAlto
-Command,cmd.exe /min /C ping 111.111.111.111 -n 5 -w 10 > Nul & Del /f /q \”[Filepath]\”,WhisperGate,PaloAlto
-Path,%WINDIR%\system32\driver\<random_2chars>dr,HermeticWiper,Crowdstrike
-Registry Key,HKLM\SYSTEM\CurrentControlSet\services\<random_2chars>dr,HermeticWiper,Crowdstrike
-Filename,rootfs_cfg,Cyclops Blink,UK NCSC
+Command,cmd.exe /Q /c start c:\stage1.exe 1> \\127.0.0.1\ADMIN$\__[TIMESTAMP] 2>&1,WhisperGate,PaloAlto,https://unit42.paloaltonetworks.com/ukraine-cyber-conflict-cve-2021-32648-whispergate/
+Command,cmd.exe /min /C ping 111.111.111.111 -n 5 -w 10 > Nul & Del /f /q \”[Filepath]\”,WhisperGate,PaloAlto,https://unit42.paloaltonetworks.com/ukraine-cyber-conflict-cve-2021-32648-whispergate/
+Path,%WINDIR%\system32\driver\<random_2chars>dr,HermeticWiper,Crowdstrike,https://www.reddit.com/r/crowdstrike/comments/t0vhe6/20220225_cool_query_friday_situational_awareness/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+Registry Key,HKLM\SYSTEM\CurrentControlSet\services\<random_2chars>dr,HermeticWiper,Crowdstrike,https://www.reddit.com/r/crowdstrike/comments/t0vhe6/20220225_cool_query_friday_situational_awareness/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+Filename,rootfs_cfg,Cyclops Blink,UK NCSC,https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf
 Registry Key,"HKLM\SYSTEM\CurrentControlSet\Control\CrashControl
-CrashDumpEnabled = 0",HermeticWiper,Security Intelligence
+CrashDumpEnabled = 0",HermeticWiper,Security Intelligence,https://securityintelligence.com/posts/new-destructive-malware-cyber-attacks-ukraine/
 Registry Key,"HKEY_USERS\<ID>\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 ShowCompColor = 0
-ShowInfoTip = 0",HermeticWiper,Security Intelligence
+ShowInfoTip = 0",HermeticWiper,Security Intelligence,https://securityintelligence.com/posts/new-destructive-malware-cyber-attacks-ukraine/
