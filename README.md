@@ -7,17 +7,17 @@ The data and data sources will be updated on a best-effort basis.
 
 The report is available:
 
-* in English: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/Reports/Report-EN.md
-* in French: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/Reports/Report-FR.md
+* in English: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/blob/main/Reports/Report-EN.md
+* in French: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/blob/main/Reports/Report-FR.md
 
 
 ## Indicators of compromise
 
 The list of IoC is available here: 
 
-* File artifacts: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/IOC/IOC-Files.csv
-* Network artifacts: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/IOC/IOC-Network.csv
-* Miscellaneous artifacts: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/IOC-Misc.csv
+* File artifacts: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/blob/main/IOC/IOC-Files.csv
+* Network artifacts: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/blob/main/IOC/IOC-Network.csv
+* Miscellaneous artifacts: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/blob/main/IOC/IOC-Misc.csv
 
 
 ## TODO
