@@ -1,9 +1,15 @@
 # Conflit russo-ukrainien - Synthèse opérationnelle
 
-| **Version** | **2022-03-01**     |
-| **Auteurs** | Cédric BLANDAMOUR  |
-| >       | Capucine DE NOMAZY |
-| >       | Jérémy ROLLAND     |
+| Version |
+|---|
+| 2022-03-01 |
+
+| Auteurs |
+|---|
+| Cédric BLANDAMOUR |
+| Capucine DE NOMAZY |
+| Jérémy ROLLAND |
+
 
 
 ## Recommandations générales
@@ -44,7 +50,7 @@
   * Liste de sources à suivre ci-dessous 
 
 
-(Plus de détails dans le (rapport de l’ANSSI)[https://www.ssi.gouv.fr/uploads/2022/02/20220226_mesures-cyber-preventives-prioritaires.pdf], le (rapport CISA)[https://www.cisa.gov/sites/default/files/publications/cisa_insight_mitigating_foreign_influence_508.pdf] et (le rapport de presse de NCSC)[https://www.ncsc.gov.uk/news/uk-organisations-encouraged-to-take-action-around-ukraine-situation])
+(Plus de détails dans le [rapport de l’ANSSI](https://www.ssi.gouv.fr/uploads/2022/02/20220226_mesures-cyber-preventives-prioritaires.pdf]), le [rapport CISA](https://www.cisa.gov/sites/default/files/publications/cisa_insight_mitigating_foreign_influence_508.pdf) et [le rapport de presse de NCSC](https://www.ncsc.gov.uk/news/uk-organisations-encouraged-to-take-action-around-ukraine-situation))
 
 
 ### Recommandations spécifiques aux logiciels malveillants identifiés dans le contexte des tensions internationales février-mars 2022
@@ -54,7 +60,7 @@ Voici des recommandations spécifiques quant aux malwares et vulnérabilités id
 
 
 **Botnets :**
-* Cyclops Blink : un botnet sophistiqué parrainé par des instances étatiques, susceptible d'avoir infecté un nombre limité d'appliances firewall WatchGuard. Celui-ci serait lié à l’APT Sandworm Team, comme indiqué dans (le rapport d’analyse du malware de NCSC)[https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf].
+* Cyclops Blink : un botnet sophistiqué parrainé par des instances étatiques, susceptible d'avoir infecté un nombre limité d'appliances firewall WatchGuard. Celui-ci serait lié à l’APT Sandworm Team, comme indiqué dans [le rapport d’analyse du malware de NCSC](https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf).
   * Remédiation : Suivre le plan détaillé de WatchGuard en 4 étapes : https://detection.watchguard.com/
   * Remédiation : Bloquer les IPs et noms de domaine présents dans le document d’indicateur de compromission ci-joint.
 
