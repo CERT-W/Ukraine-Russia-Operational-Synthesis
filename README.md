@@ -23,4 +23,3 @@ The list of IoC is available here:
 ## TODO
 
 * Upload reports in FR & EN version in markdown format
-* Add a "source name" / "source link" column in the CSV (and source XLSX file) since only the link text is kept rather than its target
