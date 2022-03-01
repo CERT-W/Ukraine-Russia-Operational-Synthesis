@@ -1,0 +1,11 @@
+﻿Type,Value,Malware Reference,Source
+Command,cmd.exe /Q /c start c:\stage1.exe 1> \\127.0.0.1\ADMIN$\__[TIMESTAMP] 2>&1,WhisperGate,PaloAlto
+Command,cmd.exe /min /C ping 111.111.111.111 -n 5 -w 10 > Nul & Del /f /q \”[Filepath]\”,WhisperGate,PaloAlto
+Path,%WINDIR%\system32\driver\<random_2chars>dr,HermeticWiper,Crowdstrike
+Registry Key,HKLM\SYSTEM\CurrentControlSet\services\<random_2chars>dr,HermeticWiper,Crowdstrike
+Filename,rootfs_cfg,Cyclops Blink,UK NCSC
+Registry Key,"HKLM\SYSTEM\CurrentControlSet\Control\CrashControl
+CrashDumpEnabled = 0",HermeticWiper,Security Intelligence
+Registry Key,"HKEY_USERS\<ID>\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+ShowCompColor = 0
+ShowInfoTip = 0",HermeticWiper,Security Intelligence
