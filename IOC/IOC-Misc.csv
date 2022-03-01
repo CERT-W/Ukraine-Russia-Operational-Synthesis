@@ -1,4 +1,4 @@
-﻿Type,Value,Malware Reference,Source
+﻿Type,Value,Malware Reference,Source name, Source link
 Command,cmd.exe /Q /c start c:\stage1.exe 1> \\127.0.0.1\ADMIN$\__[TIMESTAMP] 2>&1,WhisperGate,PaloAlto,https://unit42.paloaltonetworks.com/ukraine-cyber-conflict-cve-2021-32648-whispergate/
 Command,cmd.exe /min /C ping 111.111.111.111 -n 5 -w 10 > Nul & Del /f /q \”[Filepath]\”,WhisperGate,PaloAlto,https://unit42.paloaltonetworks.com/ukraine-cyber-conflict-cve-2021-32648-whispergate/
 Path,%WINDIR%\system32\driver\<random_2chars>dr,HermeticWiper,Crowdstrike,https://www.reddit.com/r/crowdstrike/comments/t0vhe6/20220225_cool_query_friday_situational_awareness/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
