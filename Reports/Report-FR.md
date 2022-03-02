@@ -61,7 +61,7 @@ Voici des recommandations spécifiques quant aux malwares et vulnérabilités id
 
 **Botnets :**
 * Cyclops Blink : un botnet sophistiqué parrainé par des instances étatiques, susceptible d'avoir infecté un nombre limité d'appliances firewall WatchGuard. Celui-ci serait lié à l’APT Sandworm Team, comme indiqué dans [le rapport d’analyse du malware de NCSC](https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf).
-  * Remédiation : Suivre le plan détaillé de WatchGuard en 4 étapes : https://detection.watchguard.com/
+  * Remédiation : Suivre le plan détaillé de WatchGuard en 4 étapes : https://detection.watchguard.com/.
   * Remédiation : Bloquer les IPs et noms de domaine présents dans le document d’indicateur de compromission ci-joint.
 
 * Katana : un botnet utilisé pour réaliser des attaques DDOS.
