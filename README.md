@@ -1,7 +1,16 @@
-# Ukraine-Russia-Operational-Synthesis
+# Ukraine/Russia pperational synthesis
 
-This repository aims at sharing resources for operational teams to follow the evolution of the Ukraino-Russian conflict and its cyber-impacts.
+This repository aims at sharing resources with operational teams to follow the evolution of the Ukraino-Russian conflict and its cyber-impacts.
 The data and data sources will be updated on a best-effort basis.
+
+## Version tracker 
+| Resource | Version |
+| --- | --- |
+| Report | 2022-03-01 |
+| Files IOC | 2022-03-01 |
+| Newtork IOC | 2022-03-01 |
+| Misc. IOC | 2022-03-01 |
+
 
 ## Operational report
 
