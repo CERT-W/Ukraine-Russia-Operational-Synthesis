@@ -1,4 +1,4 @@
-# Conflit russo-ukrainien - Synthèse opérationnelle
+# Russian-Ukrainian conflict - Operational synthesis
 
 | Version |
 |---|
