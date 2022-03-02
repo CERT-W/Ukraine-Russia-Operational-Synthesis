@@ -1,4 +1,4 @@
-# Ukraine/Russia pperational synthesis
+# Ukraine/Russia operational synthesis
 
 This repository aims at sharing resources with operational teams to follow the evolution of the Ukraino-Russian conflict and its cyber-impacts.
 The data and data sources will be updated on a best-effort basis.
