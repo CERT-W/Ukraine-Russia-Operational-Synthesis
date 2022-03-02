@@ -58,24 +58,24 @@ Attached you will find a document listing the known indicators of compromise rel
 Specific recommendations for identified malware and vulnerabilities include:
 
 **Botnets:**
-* Cyclops Blink: a sophisticated state-sponsored botnet that may have infected a limited number of WatchGuard firewall appliances. This is believed to be linked to the Sandworm Team APT, as indicated in the [NCSC malware analysis report](https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf)
+* Cyclops Blink: a sophisticated state-sponsored botnet that may have infected a limited number of WatchGuard firewall appliances. This is believed to be linked to the Sandworm Team APT, as indicated in the [NCSC malware analysis report](https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf).
   * Remediation: Follow WatchGuard's detailed 4-step plan: https://detection.watchguard.com/.
   * Remediation: Block the IPs and domain names in the attached Indicator of Compromise document.
 
-* Katana: a botnet used to carry out DDOS attacks
+* Katana: a botnet used to carry out DDOS attacks.
   * Remediation: Establish an operation plan against DDOS. A document was published by the [ANSSI](https://www.ssi.gouv.fr/uploads/2015/03/NP_Guide_DDoS.pdf) in 2015.
   * Remediation: Block the IPs and domain names in the attached Indicator of Compromise document.
 
 **Destructive Malware:**
-* WhisperGate: On 15 January 2022, the Microsoft Threat Intelligence Center (MSTIC) revealed that this malware was used to target organizations in Ukraine. According to Microsoft, WhisperGate is intended to be destructive and is designed to render targeted devices inoperable
+* WhisperGate: On 15 January 2022, the Microsoft Threat Intelligence Center (MSTIC) revealed that this malware was used to target organizations in Ukraine. According to Microsoft, WhisperGate is intended to be destructive and is designed to render targeted devices inoperable.
 
-* HermeticWiper: On 23 February 2022, several cybersecurity researchers revealed that malware known as HermeticWiper was being used against organizations in Ukraine. According to SentinelLabs, the malware targets Windows devices, manipulating the master boot record, resulting in a subsequent boot failure and complete loss of infected systems as well as the data stored on them
+* HermeticWiper: On 23 February 2022, several cybersecurity researchers revealed that malware known as HermeticWiper was being used against organizations in Ukraine. According to SentinelLabs, the malware targets Windows devices, manipulating the master boot record, resulting in a subsequent boot failure and complete loss of infected systems as well as the data stored on them.
 
 **Exploited vulnerabilities**
-* CVE-2021-32648 is a vulnerability affecting the OctoberCMS content management system (CMS) platform, which is believed to have been used during the attacks on Ukrainian government websites. It allows an attacker to access any account through a specially crafted account password reset request
+* CVE-2021-32648 is a vulnerability affecting the OctoberCMS content management system (CMS) platform, which is believed to have been used during the attacks on Ukrainian government websites. It allows an attacker to access any account through a specially crafted account password reset request.
   * Organizations using OctoberCMS prior to version 472 and version 1.1.5 are encouraged to upgrade to the latest version.
   
-* Microsoft SQL Server vulnerability (CVE-2021-1636): Attackers appear to have exploited a known vulnerability in Microsoft SQL Server to compromise at least one of the targeted organizations, using the "whoami" command
+* Microsoft SQL Server vulnerability (CVE-2021-1636): Attackers appear to have exploited a known vulnerability in Microsoft SQL Server to compromise at least one of the targeted organizations, using the "whoami" command.
   * Organizations are encouraged to follow the Microsoft release and update to the latest version.
   
 ## Sources to follow
