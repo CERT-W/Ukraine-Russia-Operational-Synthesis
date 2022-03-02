@@ -16,7 +16,7 @@
 
 ### Priority recommendations
 
-* Reduce the risk of account usurpation by strengthening authentication, as a priority, on VPN access and other services exposed to the Internet and on administrator accounts that have access to all critical IS resources.
+* Reduce the risk of account usurpation by strengthening authentication, as a priority, on VPN access and other services exposed to the Internet and on administrator accounts that have access to all critical IS resources
   * Implement strong authentication (with two authentication factors) on all remote accesses to the organization’s network and privileged or administrative access.
   * Ensure that the password policy enforces password complexity, brute force blocking, accounts review and disabling of unused accounts.
   * Enable strong spam filters to prevent phishing emails from reaching end-users.
