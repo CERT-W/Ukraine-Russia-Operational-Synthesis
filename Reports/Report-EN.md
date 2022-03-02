@@ -4,7 +4,7 @@
 |---|
 | 2022-03-01 |
 
-| Autors |
+| Authors |
 |---|
 | Cédric BLANDAMOUR |
 | Capucine DE NOMAZY |
