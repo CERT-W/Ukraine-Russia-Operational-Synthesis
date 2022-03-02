@@ -24,7 +24,7 @@
 * Accroître le système de supervision de sécurité des événements journalisés
   * A minima, valider la génération des logs sur les points pertinents et centraliser les journaux des points les plus sensibles : les points d’entrée VPN, les bastions d’administration, les contrôleurs de domaine, les hyperviseurs.
   * Investiguer les anomalies susceptibles d’être ignorées en temps normal. Plus particulièrement, en environnement Active Directory, les connexions anormales sur les contrôleurs de domaine doivent être inspectées, ainsi que les alertes dans les consoles d’antivirus et EDR.
-  * Si possible, déployer les outils de monitoring (Sysmon, EDR, XDR)
+  * Si possible, déployer les outils de monitoring (Sysmon, EDR, XDR).
   * En cas de relations professionnelles avec des organisations opérant dans les zones concernées par le conflit : surveiller et inspecter en provenance de ces organisations ; examiner attentivement les contrôles d'accès à ce trafic.
 
 * Sauvegarder hors-ligne les données et les applications critiques 
