@@ -27,8 +27,3 @@ The list of IoC is available here:
 * File artifacts: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/blob/main/IOC/IOC-Files.csv
 * Network artifacts: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/blob/main/IOC/IOC-Network.csv
 * Miscellaneous artifacts: https://github.com/CERT-W/Ukraine-Russia-Operational-Synthesis/blob/main/IOC/IOC-Misc.csv
-
-
-## TODO
-
-* Upload reports in FR & EN version in markdown format
