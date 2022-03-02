@@ -60,27 +60,27 @@ Voici des recommandations spécifiques quant aux malwares et vulnérabilités id
 
 
 **Botnets :**
-* Cyclops Blink : un botnet sophistiqué parrainé par des instances étatiques, susceptible d'avoir infecté un nombre limité d'appliances firewall WatchGuard. Celui-ci serait lié à l’APT Sandworm Team, comme indiqué dans [le rapport d’analyse du malware de NCSC](https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf)
+* Cyclops Blink : un botnet sophistiqué parrainé par des instances étatiques, susceptible d'avoir infecté un nombre limité d'appliances firewall WatchGuard. Celui-ci serait lié à l’APT Sandworm Team, comme indiqué dans [le rapport d’analyse du malware de NCSC](https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf).
   * Remédiation : Suivre le plan détaillé de WatchGuard en 4 étapes : https://detection.watchguard.com/
   * Remédiation : Bloquer les IPs et noms de domaine présents dans le document d’indicateur de compromission ci-joint.
 
-* Katana : un botnet utilisé pour réaliser des attaques DDOS
+* Katana : un botnet utilisé pour réaliser des attaques DDOS.
   * Remédiation : Etablir un plan d’opération contre le DDOS. Un document a été publié par [l’ANSSI](https://www.ssi.gouv.fr/uploads/2015/03/NP_Guide_DDoS.pdf) en 2015. 
   * Remédiation : Bloquer les IPs et noms de domaine présents dans le document d’indicateur de compromission ci-joint.
 
 
 **Destructive Malware :**
-* WhisperGate : Le 15 janvier 2022, le Microsoft Threat Intelligence Center (MSTIC) a révélé que ce logiciel malveillant était utilisé pour cibler des organisations en Ukraine. Selon Microsoft, WhisperGate est destiné à être destructeur et est conçu pour rendre les appareils ciblés inopérants
+* WhisperGate : Le 15 janvier 2022, le Microsoft Threat Intelligence Center (MSTIC) a révélé que ce logiciel malveillant était utilisé pour cibler des organisations en Ukraine. Selon Microsoft, WhisperGate est destiné à être destructeur et est conçu pour rendre les appareils ciblés inopérants.
 
-* HermeticWiper. Le 23 février 2022, plusieurs chercheurs en cybersécurité ont révélé qu'un logiciel malveillant connu sous le nom de HermeticWiper était utilisé contre des organisations en Ukraine. Selon SentinelLabs, le logiciel malveillant cible les appareils Windows, en manipulant l'enregistrement de démarrage principal, ce qui entraîne un échec de démarrage ultérieur
+* HermeticWiper. Le 23 février 2022, plusieurs chercheurs en cybersécurité ont révélé qu'un logiciel malveillant connu sous le nom de HermeticWiper était utilisé contre des organisations en Ukraine. Selon SentinelLabs, le logiciel malveillant cible les appareils Windows, en manipulant l'enregistrement de démarrage principal, ce qui entraîne un échec de démarrage ultérieur.
 
 
 **Vulnérabilités exploitées et mises à jour nécessaires :**
-* CVE-2021-32648 Vulnerability est une vulnérabilité dans la plateforme de système de gestion de contenu (CMS) OctoberCMS, qui serait à l'origine des attaques contre les sites Web du gouvernement ukrainien. Elle permet à un attaquant d'accéder à n'importe quel compte par le biais d'une demande de réinitialisation du mot de passe du compte spécialement conçue 
-  * Les organisations utilisant OctoberCMS avant la version 472 et la version 1.1.5 sont encouragées à mettre à jour la dernière version
+* CVE-2021-32648 Vulnerability est une vulnérabilité dans la plateforme de système de gestion de contenu (CMS) OctoberCMS, qui serait à l'origine des attaques contre les sites Web du gouvernement ukrainien. Elle permet à un attaquant d'accéder à n'importe quel compte par le biais d'une demande de réinitialisation du mot de passe du compte spécialement conçue.
+  * Les organisations utilisant OctoberCMS avant la version 472 et la version 1.1.5 sont encouragées à mettre à jour la dernière version.
 
-* Microsoft SQL Server vulnerability (CVE-2021-1636) : Les attaquants semblent avoir exploité une vulnérabilité connue dans Microsoft SQL Server afin de compromettre au moins une des organisations ciblées, en utilisant la commande "whoami" 
-  * Les organisations sont encouragées à suivre le communiqué de Microsoft et à mettre à jour la dernière version
+* Microsoft SQL Server vulnerability (CVE-2021-1636) : Les attaquants semblent avoir exploité une vulnérabilité connue dans Microsoft SQL Server afin de compromettre au moins une des organisations ciblées, en utilisant la commande "whoami". 
+  * Les organisations sont encouragées à suivre le communiqué de Microsoft et à mettre à jour la dernière version.
 
 
 ## Sources à suivre
