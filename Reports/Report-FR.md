@@ -118,7 +118,7 @@ Voici des recommandations spécifiques quant aux malwares et vulnérabilités id
 
 ## Annexes
 
-* Les mesures d’hygiène informatique essentielles  
+* [Les mesures d’hygiène informatique essentielles](https://www.ssi.gouv.fr/actualite/le-nouveau-guide-dhygiene-informatique-renforcer-la-securite-de-son-systeme-dinformation-en-42-mesures/#:~:text=Paru%20en%20janvier%202013%20dans%20sa%20premi%C3%A8re%20version%2C,qui%20y%20sont%20%C3%A9dict%C3%A9es%20avaient%20%C3%A9t%C3%A9%20appliqu%C3%A9es%20)  
 * Les recommandations des guides de gestion de crise de l’ANSSI :
-  * « Crise d’origine cyber, les clés d’une gestion opérationnelle et stratégique » 
-  * « Anticiper et gérer sa communication de crise cyber »  
+  * [« Crise d’origine cyber, les clés d’une gestion opérationnelle et stratégique »](https://www.ssi.gouv.fr/guide/crise-dorigine-cyber-les-cles-dune-gestion-operationnelle-et-strategique/). 
+  * [« Anticiper et gérer sa communication de crise cyber »](https://www.ssi.gouv.fr/guide/anticiper-et-gerer-sa-communication-de-crise-cyber/).  
