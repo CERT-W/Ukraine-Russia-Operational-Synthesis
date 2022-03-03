@@ -63,7 +63,7 @@ Specific recommendations for identified malware and vulnerabilities include:
 
 * HermeticWiper: On 23 February 2022, several cybersecurity researchers revealed that malware known as HermeticWiper was being used against organisations in Ukraine. According to SentinelLabs, the malware targets Windows devices, manipulating the master boot record, resulting in a subsequent boot failure and complete loss of infected systems as well as the data stored on them.
 
-* IsaacWiper: On 24 February 2022, researchers revealed that malware known as IsaacWiper was being used against organisations in Ukraine. According to ESET RESEARCH, it has no code similarity with HermeticWiper and it enumerates physical and logical drives to wipe.
+* IsaacWiper: On 24 February 2022, researchers revealed that malware known as IsaacWiper was being used against organisations in Ukraine. According to [ESET RESEARCH](https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/), it has no code similarity with HermeticWiper and it enumerates physical and logical drives to wipe.
 
 **Botnet:**
 * Cyclops Blink: a sophisticated state-sponsored botnet that may have infected a limited number of WatchGuard firewall appliances. This is believed to be linked to the Sandworm Team APT, as indicated in the [NCSC malware analysis report](https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf).
