@@ -67,7 +67,7 @@ Voici des recommandations spécifiques quant aux malwares et vulnérabilités id
 
 * IsaacWiper : Le 24 février 2022, plusieurs chercheurs en cybersécurité ont révélé qu’un logiciel malveillant connu sous le nom de IsaacWiper avait aussi été utilisé contre des organisations en Ukraine. Selon [ESET RESEARCH](https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/), le wiper n’a pas de similarité de code avec HermeticWiper. Le malware énumère les lecteurs physiques et logiques avec pour finalité de les réécrire partiellement ou complètement : destruction de tous les fichiers des disques.
 
-**Botnets :**
+**Botnet :**
 * Cyclops Blink : un botnet sophistiqué parrainé par des instances étatiques, susceptible d'avoir infecté un nombre limité d'appliances firewall WatchGuard. Celui-ci serait lié à l’APT Sandworm Team, comme indiqué dans [le rapport d’analyse du malware de NCSC](https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf).
   * Remédiation : Suivre le plan détaillé de WatchGuard en 4 étapes : https://detection.watchguard.com/.
   * Remédiation : Bloquer les IPs et noms de domaine présents dans le document d’indicateur de compromission ci-joint.
