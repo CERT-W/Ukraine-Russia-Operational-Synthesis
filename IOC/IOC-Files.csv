@@ -24,7 +24,7 @@ ca3c4cd3c2edc816c1130e6cac9bdd08f83aef0b8e6f3d09c2172c854fab125f,SHA-256,,Hermet
 ad602039c6f0237d4a997d5640e92ce5e2b3bba3,SHA-1,cl64.dll,IsaacWiper,ESET RESEARCH,https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
 736a4cfad1ed83a6a0b75b0474d5e01a3a36f950,SHA-1,cld.dll,IsaacWiper,ESET RESEARCH,https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
 e9b96e9b86fad28d950ca428879168e0894d854f,SHA-1,clean.exe,IsaacWiper,ESET RESEARCH,https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
-23873bf2670cf64c2440058130548d4e4da412dd,SHA-1,XqoYMlBX.exe,Legitimate RemCom remote access tool,ESET RESEARCH,
+23873bf2670cf64c2440058130548d4e4da412dd,SHA-1,XqoYMlBX.exe,Legitimate RemCom remote access tool,ESET RESEARCH,https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
 50df5734dd0c6c5983c21278f119527f9fdf6ef1d7e808a29754ebc5253e9a86,SHA-256,cpd,Cyclops Blink,UK NCSC,https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf
 c082a9117294fa4880d75a2625cf80f63c8bb159b54a7151553969541ac35862,SHA-256,cpd,Cyclops Blink,UK NCSC,https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf
 4e69bbb61329ace36fbe62f9fb6ca49c37e2e5a5293545c44d155641934e39d1,SHA-256,install_upgrade,Cyclops Blink,UK NCSC,https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf
