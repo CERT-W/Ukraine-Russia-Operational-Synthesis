@@ -19,13 +19,13 @@
 * Réduire le risque d’usurpation de compte en renforçant l’authentification, en priorité sur les accès VPN et autres services exposés et des comptes administrateurs qui ont accès à l’ensemble des ressources critiques du SI
   * Mettre en place une authentification forte (avec deux facteurs d’authentification) sur tous les accès à distance au réseau de l'organisation et les accès privilégiés ou administratifs.
   * Vérifier que la politique de mot de passe inclut complexité, blocage en cas de brute force, revue des comptes et désactivation des comptes inutilisés.
-  * Activer des solutions de sécurité de messagerie pour empêcher les courriels de phishing d'atteindre les utilisateurs finaux
+  * Activer des solutions de sécurité de messagerie pour empêcher les courriels de phishing d'atteindre les utilisateurs finaux.
 
 * Accroître le système de supervision de sécurité des événements journalisés
   * A minima, valider la génération des logs sur les points pertinents et centraliser les journaux des points les plus sensibles : les points d’entrée VPN, les bastions d’administration, les contrôleurs de domaine, les hyperviseurs.
   * Investiguer les anomalies susceptibles d’être ignorées en temps normal. Plus particulièrement, en environnement Active Directory, les connexions anormales sur les contrôleurs de domaine doivent être inspectées, ainsi que les alertes dans les consoles d’antivirus et EDR.
   * Si possible, déployer les outils de monitoring (Sysmon, EDR, XDR).
-  * *	En cas de présence d’entités ou de relations professionnelles avec des organisations opérant dans les zones concernées par le conflit : surveiller et inspecter en provenance de ces organisations ; examiner attentivement les contrôles d'accès à ce trafic.
+  * En cas de présence d’entités ou de relations professionnelles avec des organisations opérant dans les zones concernées par le conflit : surveiller et inspecter en provenance de ces organisations ; examiner attentivement les contrôles d'accès à ce trafic.
 
 * Sauvegarder hors-ligne les données et les applications critiques 
   * Sauvegardes régulières des actifs critiques de l’entreprise (serveurs de fichiers, d’infrastructures et d’applications métier…). La fréquence est à adapter en fonction de l’entité et la criticité des éléments sauvegardés.
@@ -49,7 +49,7 @@
 * Suivre les alertes et avis de sécurité émis par des éditeurs de confiance
   * Liste de sources à suivre ci-dessous.
 
-* Evaluer l'usage de produits d'origine russe ou ukrainien, dans le système d'information, d'un point de vue du risque cyber mais également du fait de l'application des sanctions qui peuvent entraîner de potentielles difficultés d'utilisation, de paiement des licences ou de maintenance
+* Evaluer l'usage de produits d'origine russe ou ukrainienne, dans le système d'information, d'un point de vue du risque cyber mais également du fait de l'application des sanctions qui peuvent entraîner de potentielles difficultés d'utilisation, de paiement des licences ou de maintenance.
 
 (Plus de détails dans le [rapport de l’ANSSI](https://www.ssi.gouv.fr/uploads/2022/02/20220226_mesures-cyber-preventives-prioritaires.pdf), le [rapport CISA](https://www.cisa.gov/sites/default/files/publications/cisa_insight_mitigating_foreign_influence_508.pdf) et le [rapport de presse de NCSC](https://www.ncsc.gov.uk/news/uk-organisations-encouraged-to-take-action-around-ukraine-situation))
 
@@ -72,8 +72,8 @@ Voici des recommandations spécifiques quant aux malwares et vulnérabilités id
   * Remédiation : Suivre le plan détaillé de WatchGuard en 4 étapes : https://detection.watchguard.com/.
   * Remédiation : Bloquer les IPs et noms de domaine présents dans le document d’indicateur de compromission ci-joint.
 
-* Katana : un botnet utilisé pour réaliser des attaques DDOS.
-  * Remédiation : Etablir un plan d’opération contre le DDOS. Un document a été publié par [l’ANSSI](https://www.ssi.gouv.fr/uploads/2015/03/NP_Guide_DDoS.pdf) en 2015. 
+* Katana : un botnet utilisé pour réaliser des attaques DDoS.
+  * Remédiation : Etablir un plan d’opération contre le DDoS. Un document a été publié par [l’ANSSI](https://www.ssi.gouv.fr/uploads/2015/03/NP_Guide_DDoS.pdf) en 2015. 
   * Remédiation : Bloquer les IPs et noms de domaine présents dans le document d’indicateur de compromission ci-joint.
 
 **Ransomware**
