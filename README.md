@@ -6,7 +6,7 @@ The data and data sources will be updated on a best-effort basis.
 ## Version tracker 
 | Resource | Version |
 | --- | --- |
-| Reports | 2022-03-03 |
+| Reports | 2022-03-02 |
 | Files IOC | 2022-03-02 |
 | Network IOC | 2022-03-01 |
 | Misc. IOC | 2022-03-01 |
